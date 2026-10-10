@@ -44,8 +44,8 @@ general reliability or suitability for unsupervised academic use.
 
 ## Evidence
 
-See the Q4 screenshot PDF and supplementary citation-check images
-in this repository. Original and revised answers are retained.
+The Q4 PDF in this repository contains the conversation screenshots,
+original and revised answers, mind map, and citation-check screenshots.
 
 Notebook preview:
 https://notebook.google.com/notebook/c8345736-384e-4cd2-b93f-b8c0a79fe97b/preview
